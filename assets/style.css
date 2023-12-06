@@ -17,6 +17,7 @@ img {
 
 .landing-page {
   position: relative;
+  overflow-x: hidden;
 }
 .landing-page .section-1 {
   display: flex;
